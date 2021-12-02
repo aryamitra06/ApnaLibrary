@@ -1,0 +1,39 @@
+body{
+    background-color: #191A19;
+}
+
+.heading{
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+
+.container-addbook{
+    margin-top: 110px !important;
+}
+.book-table{
+    margin-top: 120px;
+}
+.table{
+    color: rgb(0, 0, 0);
+}
+
+th{
+    color: rgb(255, 255, 255);
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate{
+color: #e5e5e5 !important;
+}
+
+.dataTables_wrapper .dataTables_filter input{
+    border-radius: 81px !important;
+    background-color:#e5e5e5 !important;
+    outline: none;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled{
+    color: white !important;
+}
